@@ -11,7 +11,7 @@ Please write below this line to address the above-mentioned points. Replace the 
 ### First Tool
 
  1. What kind of research is this method or tool used for?
- dbSNP is a binoinformatics repisitory that was used in Covid19 research that stores relevant and critical discoveries in the genomics of the virus. Additionally, it is used to to "store and curate gene expression profiles". More speifically, it focuses on human SNP profiles and their interactions with Covid19.
+ dbSNP is a binoinformatics repisitory that was used in Covid19 research that stores relevant and critical discoveries in the genomics of the virus. Additionally, it is used to to "store and curate gene expression profiles". More speifically, it focuses on human SNP profiles and their interactions with Covid19. 
  
  2. How does this method or tool work? What does it do?
 This tool works as a government hosted database compiling great amounts of genomic research to be used in a sort of peer-reviewed process that consolidates revelevant discoveries to be further studied or utilized.
